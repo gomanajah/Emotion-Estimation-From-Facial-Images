@@ -1,0 +1,24 @@
+1-Copy folder (Emotion Estimation From Facial Images) to  C:\
+
+2-
+*For 10 Exprssions Database:
+-copy this link (C:\Emotion Estimation From Facial Images\Program\GUI (10 Expressions)) into matlap
+
+*For 8 Exprssions Database:
+-copy this link (C:\Emotion Estimation From Facial Images\Program\GUI (8 Expressions)) into matlap
+
+*For 7 Exprssions Database:
+-copy this link (C:\Emotion Estimation From Facial Images\Program\GUI (7 Expressions)) into matlap
+
+3-Run Home.m
+
+4-Done
+
+============================
+If you want to write the results in excel file. you shuold change some columns and rows in file (Export.m)
+============================
+
+Any Questions. Please Send me an email:
+
+goma.najah@gmail.com
+============================
